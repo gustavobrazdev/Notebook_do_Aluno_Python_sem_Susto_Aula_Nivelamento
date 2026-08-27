@@ -1,3 +1,3 @@
-#Aula Python.
+Aula Python.
 
-#Dia: 26/08/2026
+Dia: 26/08/2026
