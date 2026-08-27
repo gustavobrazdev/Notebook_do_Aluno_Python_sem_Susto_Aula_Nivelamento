@@ -1,1 +1,3 @@
-# Notebook_do_Aluno_Python_sem_Susto_Aula_Nivelamento
+#Aula Python.
+
+#Dia: 26/08/2026
